@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android app.  The build process fails with a cryptic error message that doesn't pinpoint the actual issue.  The app code compiles without issue locally and on iOS but fails only for Android builds using Expo CLI.
